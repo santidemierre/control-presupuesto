@@ -18,11 +18,15 @@ import IconoCuotas from '../img/icono_cuotas.svg'
 import IconoMercadolibre from '../img/icono_mercado.svg'
 import IconoDebitos from '../img/icono_debito.svg'
 import IconoFree from '../img/icono_free.svg'
+import IconSuper from '../img/supermercado.svg'
+import IconColegio from '../img/colegio.svg'
 
 const diccionarioIconos = {
   comida: IconoComida,
+  super: IconSuper,
   casa: IconoServicios,
   hijos: IconoHijos,
+  colegio: IconColegio,
   baradero: IconoBaradero,
   campo: IconoCampo,
   cuotas: IconoCuotas,

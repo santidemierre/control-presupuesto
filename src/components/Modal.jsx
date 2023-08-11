@@ -105,8 +105,10 @@ const Modal = ({setModal, animarModal, setAnimarModal, guardarGasto, gastoEditar
                 >
                     <option value="">-- Selecciona una categoria --</option>
                     <option value="comida">Comida</option>
+                    <option value="super">Supermercado</option>
                     <option value="casa">Casa</option>
                     <option value="hijos">Hijos</option>
+                    <option value="colegio">Colegio</option>
                     <option value="baradero">Baradero</option>
                     <option value="campo">Campo</option>
                     <option value="cuotas">Gastos con Cuotas</option>
