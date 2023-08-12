@@ -1,3 +1,4 @@
+
 import { useState, useEffect } from 'react'
 import CerrarBtn from '../img/cerrar.svg'
 import Mensaje from './Mensaje'
@@ -108,6 +109,7 @@ const Modal = ({setModal, animarModal, setAnimarModal, guardarGasto, gastoEditar
                     <option value="super">Supermercado</option>
                     <option value="casa">Casa</option>
                     <option value="hijos">Hijos</option>
+                    <option value="cumples">Cumpleaños</option>
                     <option value="colegio">Colegio</option>
                     <option value="baradero">Baradero</option>
                     <option value="campo">Campo</option>

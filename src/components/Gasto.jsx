@@ -1,3 +1,4 @@
+
 import { 
   LeadingActions,
   SwipeableList,
@@ -20,12 +21,14 @@ import IconoDebitos from '../img/icono_debito.svg'
 import IconoFree from '../img/icono_free.svg'
 import IconSuper from '../img/supermercado.svg'
 import IconColegio from '../img/colegio.svg'
+import IconCumples from '../img/cumples.svg'
 
 const diccionarioIconos = {
   comida: IconoComida,
   super: IconSuper,
   casa: IconoServicios,
   hijos: IconoHijos,
+  cumples: IconCumples,
   colegio: IconColegio,
   baradero: IconoBaradero,
   campo: IconoCampo,

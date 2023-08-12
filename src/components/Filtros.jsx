@@ -15,6 +15,7 @@ const Filtros = ({filtro, setFiltro}) => {
                     <option value="super">Supermercado</option>
                     <option value="casa">Casa</option>
                     <option value="hijos">Hijos</option>
+                    <option value="cumples">Cumpleaños</option>
                     <option value="colegio">Colegio</option>
                     <option value="baradero">Baradero</option>
                     <option value="campo">Campo</option>
@@ -25,6 +26,8 @@ const Filtros = ({filtro, setFiltro}) => {
                 </select>
             </div>
         </form>
+        
+
     </div>
   )
 }
